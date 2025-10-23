@@ -29,13 +29,3 @@
 <h4 align="left">🛠 ⚙️ Tech Stack<br><br>1. Frontend: Streamlit<br>2. Backend: Python<br>3. Machine Learning: scikit-learn (TF-IDF + Logistic Regression)<br>4. Utilities: Joblib, Regex, Pandas, Requests<br>5. Optional APIs: Google Safe Browsing, VirusTotal, AbuseIPDBLanguage and tools</h4>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=saturn-16&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
